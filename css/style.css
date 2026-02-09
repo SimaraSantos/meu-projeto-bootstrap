@@ -8,8 +8,12 @@ h1.text-info {
 }
 
 .img-coluna {
-    width: 100%;       /* Obriga a imagem a ocupar toda a largura da col-4 */
-    height: 300px;     /* Define uma altura fixa para todas ficarem iguais */
-    object-fit: cover; /* O SEGREDO: corta as sobras sem esticar a imagem */
-    display: block;    /* Remove espaços vazios abaixo da imagem */
+    width: 100%;
+    /* Obriga a imagem a ocupar toda a largura da col-4 */
+    height: 300px;
+    /* Define uma altura fixa para todas ficarem iguais */
+    object-fit: cover;
+    /* O SEGREDO: corta as sobras sem esticar a imagem */
+    display: block;
+    /* Remove espaços vazios abaixo da imagem */
 }
